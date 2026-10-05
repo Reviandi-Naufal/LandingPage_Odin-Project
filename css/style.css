@@ -1,4 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 .header {
   background-color: #1F2937;
-  color: white;
+  color: #E5E7EB;
+}
+
+#branding {
+  color: #F9FAF8;
+  font-family: "Roboto", "Times New Roman";
+  font-size: 24px;
 }
