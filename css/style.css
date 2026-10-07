@@ -17,18 +17,18 @@
   font-weight: 700;
 }
 
-nav {
+.navbar {
   display: flex;
   list-style: none; 
   gap: 1.5rem;
 }
 
-nav a {
+.navbar a {
   text-decoration: none;
   color: inherit;
 }
 
-nav a:hover {
+.navbar a:hover {
   text-decoration: none;
   opacity: 0.8;
 }
