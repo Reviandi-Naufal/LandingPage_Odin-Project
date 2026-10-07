@@ -1,3 +1,5 @@
+@import url('https://googleapis.com');
+
 * {
   margin: 0;
   padding: 0;
@@ -12,4 +14,5 @@
   color: #F9FAF8;
   font-family: "Roboto", "Times New Roman";
   font-size: 24px;
+  font-weight: 700;
 }
