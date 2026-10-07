@@ -16,3 +16,13 @@
   font-size: 24px;
   font-weight: 700;
 }
+
+nav a {
+  text-decoration: none;
+  color: inherit;
+}
+
+nav a:hover {
+  text-decoration: none;
+  opacity: 0.8;
+}
